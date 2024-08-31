@@ -1,6 +1,4 @@
 ﻿using Google.Cloud.Storage.V1;
-using System;
-using System.IO;
 using Google.Apis.Auth.OAuth2;
 
 var uploader = new UploadFileSample();
